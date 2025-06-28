@@ -1,10 +1,10 @@
 
-# Last Problem Browser Extension
+# CodeUnsolved Browser Extension
 
-A Chrome extension that tracks the last 5 opened problems from LeetCode and Codeforces, helping you revisit recent challenges easily.
+A Chrome extension that tracks the last opened problems from LeetCode and Codeforces, helping you revisit recent challenges easily.
 
 ## Features
-- Tracks the last 5 problems visited on LeetCode and Codeforces.
+- Tracks the last problems visited on LeetCode and Codeforces.
 - Displays problem names with direct links.
 - Prevents duplicate problem entries for LeetCode.
 - Lightweight and easy to use.
@@ -14,8 +14,8 @@ A Chrome extension that tracks the last 5 opened problems from LeetCode and Code
 ### 1. Download the Extension
 1. Clone the repository:
    ```sh
-   git clone https://github.com/heamu/Last-problem.git
-   cd Last-problem
+   git clone https://github.com/Naveensaikumar09/CodeUnsolved.git
+   cd CodeUnsolved
    ```
 
 2. Install dependencies:
