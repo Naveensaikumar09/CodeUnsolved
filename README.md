@@ -1,5 +1,5 @@
 
-# CodeUnsolved Browser Extension
+# TrackMyProblems Browser Extension
 
 A Chrome extension that tracks the last opened problems from LeetCode and Codeforces, helping you revisit recent challenges easily.
 
